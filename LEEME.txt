@@ -1,0 +1,1 @@
+Subir index.html y .nojekyll a la raiz de un repositorio publico. En Settings > Pages elegir Deploy from a branch, main, / (root). No requiere dependencias. Incluye musica y mapa ilustrado; ruta real en Google Maps.
